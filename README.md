@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📫 How to reach me **shreyasviswanathan1@gmail.com**
+- 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
-- 👨‍💻 View my front-end projects: [Web Development](https://react-web-development-portfolio.vercel.app/)
+- 👨‍💻 View my front-end projects: [Front-End Development](https://react-web-development-portfolio.vercel.app/)
 
-- 👨‍💻 View my Python and ML projects: [Backend Development](http://sxv357.pythonanywhere.com/)
+- 👨‍💻 View my Python and ML projects: [Back-End Development](http://sxv357.pythonanywhere.com/)
  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
 
