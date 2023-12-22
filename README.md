@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **shreyasviswanathan1@gmail.com**
 
-- 👨‍💻 View my front-end projects: **https://react-web-development-portfolio.vercel.app/**
+- 👨‍💻 View my front-end projects: [Web Development](https://react-web-development-portfolio.vercel.app/)
 
-- 👨‍💻 View my Python and ML projects: **http://sxv357.pythonanywhere.com/**
+- 👨‍💻 View my Python and ML projects: [Backend Development](http://sxv357.pythonanywhere.com/)
  
-- 📄 Know about my experiences: **https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
