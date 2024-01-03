@@ -2,9 +2,9 @@
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
 - 🔭 I’m currently working on
-- [Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4) 
-- Developing solutions to identify the impact of the industry shift from conventional ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)
-- Developing computer vision models to predict the locations of wildfires based on lightning strikes as part of the lightning and wildfires research lab at [ML@Purdue](https://ml-purdue.github.io/)
+ - [Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4) 
+ - Identifying impact of shift from ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)
+ - Developing computer vision models to predict wilfire locations based on lightning strikes at [ML@Purdue](https://ml-purdue.github.io/)
 
 - 🌱 I’m currently learning **C**
 
