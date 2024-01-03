@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-- 🔭 I’m currently working on
-  1. [Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4) 
-  2. Impact analysis of shift from ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)
-  3. Computer Vision model development to predict wilfire locations based on lightning strikes at [ML@Purdue](https://ml-purdue.github.io/)
-
-- 🌱 I’m currently learning **C**
-
-- 📫 How to reach me: **shreyasviswanathan1@gmail.com**
-
-- 👨‍💻 View my work: COMING SOON...
- 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
+<ul>
+  <li>🔭 I’m currently working on</li>
+  <ul>
+    <li>[Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4) </li>
+    <li>Impact analysis of shift from ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)</li>
+    <li>Computer Vision model development to predict wilfire locations based on lightning strikes at [ML@Purdue](https://ml-purdue.github.io/)</li>
+  </ul>
+  <li>🌱 I’m currently learning **C**</li>
+  <li>View my work: COMING SOON...</li>
+  <li>Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)</li>
+  <li>How to reach me: **shreyasviswanathan1@gmail.com**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
