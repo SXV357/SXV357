@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-- 🔭 I’m currently working on [Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4)
+- 🔭 I’m currently working on
+- [Multi-Feature Fusion Lane Detection](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4) 
+- Developing solutions to identify the impact of the industry shift from conventional ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)
+- Developing computer vision models to predict the locations of wildfires based on lightning strikes as part of the lightning and wildfires research lab at [ML@Purdue](https://ml-purdue.github.io/)
 
 - 🌱 I’m currently learning **C**
 
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
-- 👨‍💻 View my front-end projects [here](https://react-web-development-portfolio.vercel.app/) and my back-end projects [here](http://sxv357.pythonanywhere.com/)
+- 👨‍💻 View my work: COMING SOON...
  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
 
