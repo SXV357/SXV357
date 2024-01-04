@@ -2,12 +2,17 @@
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
 - 🔭 I’m currently working on
+  
   - Multi-Feature Fusion Lane Detection at [Autonomous Motorsports](https://github.com/Autonomous-Motorsports-Purdue/AMP_ASSv4)
   - Impact analysis of the shift from ICE production to EV production at the [Knudsen Institute](https://www.surgetheory.org/)
   - Computer Vision model development to predict wildfire locations based on lightning strikes at [ML@Purdue](https://ml-purdue.github.io/)
+    
 - 🌱 I’m currently learning **C**
+  
 - 👨‍💻 View my work: COMING SOON...
+  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
+  
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
