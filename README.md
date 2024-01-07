@@ -9,7 +9,7 @@
     
 - 🌱 I’m currently learning **C**
   
-- 👨‍💻 View my work [here](https://v4-hyryfxa2w-shrevis2018-gmailcom.vercel.app/)
+- 👨‍💻 View my work: [Dev Portfolio](https://shreyasviswanathan.netlify.app/)
   
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
   
