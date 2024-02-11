@@ -8,7 +8,7 @@
     
 - 🌱 I’m currently learning **C**
   
-- 👨‍💻 View my work [here](https://shreyasviswanathan.netlify.app/)
+- 👨‍💻 View my work [here](https://shreyas-viswanathan-portfolio.vercel.app/)
   
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xt20NaRs4DCrI9is_qtG1geEsWPkB_I7/view?usp=sharing)
   
