@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
 
-  - Quizz.It, a full-stack educational productivity application with document summary, question generation and answering capabilities
+  - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
   - Utilizing RAG frameworks to build chatbots for the manufacturing industry at the [Knudsen Institute](https://www.surgetheory.org/)
     
 - 🌱 I’m currently learning **C++**
