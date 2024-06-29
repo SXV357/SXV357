@@ -4,13 +4,13 @@
 - 🔭 I’m currently working on
 
   - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
-  - Developing solutions to enable the development and deployment of chatbots with support for multiple isolated LLMs at [Open Build](https://www.open.build/)
+  - Developing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)
     
 - 🌱 I’m currently learning **C++**
   
 - 👨‍💻 View my work [here](https://shreyas-viswanathan-portfolio.vercel.app/)
   
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/194zLvMq6UAIKwo2n4a5nKQJdouQ5NYT5/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1oHqYUWFWQId7Rhd-_P9WSb7LesfjGBGc/view)
   
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
