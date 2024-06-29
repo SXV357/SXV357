@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
 
   - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
-  <!--- Utilizing RAG frameworks to build chatbots for the manufacturing industry at the [Knudsen Institute](https://www.surgetheory.org/)-->
+  - Developing solutions to enable the rapid development and deployment of chatbots with support for multiple isolated LLMs at [Open Build](https://www.open.build/)
     
 - 🌱 I’m currently learning **C++**
   
