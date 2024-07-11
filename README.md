@@ -6,7 +6,7 @@
   - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
   - Implementing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)
     
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, SQL**
   
 - 👨‍💻 View my work [here](https://shreyas-viswanathan-portfolio.vercel.app/)
   
