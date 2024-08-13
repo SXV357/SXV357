@@ -8,9 +8,9 @@
     
 - 🌱 I’m currently learning **C++, SQL**
   
-- 👨‍💻 View my work [here](https://shreyas-viswanathan-portfolio.vercel.app/)
+- 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
   
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1oHqYUWFWQId7Rhd-_P9WSb7LesfjGBGc/view)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NqovjPdfH54RCy498RzJMq4C1aMan3N3/view?usp=sharing)
   
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
