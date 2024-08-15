@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-- 🔭 I’m currently working on
+<!--- 🔭 I’m currently working on
 
   - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
-  - Implementing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)
-    
+  - Implementing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)-->
+
+- 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/ - A full-stack educational productivity application with document summary, question generation, and answering capabilities
+ 
 - 🌱 I’m currently learning **C++, SQL**
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
