@@ -6,7 +6,7 @@
   - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
   - Implementing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)-->
 
-- 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/ - A full-stack educational productivity application with document summary, question generation, and answering capabilities
+- 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/) - A full-stack educational productivity application with document summary, question generation, and answering capabilities
  
 - 🌱 I’m currently learning **C++, SQL**
   
