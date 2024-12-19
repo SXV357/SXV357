@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-<!--- 🔭 I’m currently working on
-
-  - Quizz.It, an educational productivity application with document summary, question generation and answering capabilities
-  - Implementing solutions to enable the development and deployment of chatbots supporting multiple isolated LLMs at [Open Build](https://www.open.build/)-->
-
 - 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/) - A full-stack educational productivity application with document summary, question generation, and answering capabilities
  
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL, C++, MERN**
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
   
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1NqovjPdfH54RCy498RzJMq4C1aMan3N3/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lC6qCSXlurWqWyvUdqdKI6lcsPKCNYMK/view?usp=sharing)
   
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
@@ -73,7 +68,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SXV357&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SXV357&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=SXV357&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> !-->
   <img src="https://github-profile-trophy.vercel.app?username=SXV357&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
