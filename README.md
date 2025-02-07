@@ -3,7 +3,7 @@
 
 - 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/) - A full-stack educational productivity application with document summary, question generation, and answering capabilities
  
-- 🌱 I’m currently learning **SQL, C++, MERN**
+- 🌱 I’m currently learning **SQL, MERN**
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
   
