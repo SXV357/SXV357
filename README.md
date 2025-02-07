@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SXV357&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src = "https://raw.githubusercontent.com/SXV357/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src = "https://raw.githubusercontent.com/SXV357/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://github-profile-trophy.vercel.app?username=SXV357&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<!--   <img src="https://github-profile-trophy.vercel.app?username=SXV357&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div> -->
 
 ###
