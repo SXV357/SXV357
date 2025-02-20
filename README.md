@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-- 🔭 Check out my latest project [Quizz.It](https://quizz-it.vercel.app/) - A full-stack educational productivity application with document summary, question generation, and answering capabilities
- 
+- 🔭 I'm currently working on implementing a hash table with the chaining collision-handling mechanism in x86-64 Assembly
+  
 - 🌱 I’m currently learning **SQL, MERN**
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
