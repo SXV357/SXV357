@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
 <h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
 
-- 🔭 I'm currently working on implementing a hash table with the chaining collision-handling mechanism in x86-64 Assembly
+- 🔭 I'm currently working on developing an SMS-based food ordering system for [SFSL](https://www.sharefoodsharelove.org/)
   
 - 🌱 I’m currently learning **SQL, MERN**
   
