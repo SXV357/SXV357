@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"  />
-  <img width="12" />
   
   <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="react logo"  />
