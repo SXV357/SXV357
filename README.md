@@ -9,7 +9,7 @@
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
   
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1lC6qCSXlurWqWyvUdqdKI6lcsPKCNYMK/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1peNMfvbepRDuR0uGyrKzBv_lTgDjMGMb/view?usp=sharing)
   
 - 📫 How to reach me: **shreyasviswanathan1@gmail.com**
 
