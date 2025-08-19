@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
-<h3 align="center">Undergraduate CS student at Purdue passionate about large-scale web applications and autonomous systems</h3>
+<h3 align="center">Undergraduate CS student at Purdue passionate about autonomous systems and large-scale web applications</h3>
 
-- 🔭 I'm currently working on developing an SMS-based food ordering system for [SFSL](https://www.sharefoodsharelove.org/)
+- 🔭 I recently worked on developing the backend for an SMS-based food ordering system for [SFSL](https://www.sharefoodsharelove.org/)
   
-- 🌱 I’m currently learning **SQL, MERN**
+- 🌱 Self-learning endeavors
+  - Current: **SQL, MERN**
+  - Upcoming: **Agentic AI, AWS** 
   
 - 👨‍💻 View my work [here](https://sviswanathan.vercel.app/)
   
