@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Viswanathan</h1>
-<h3 align="center">Undergraduate CS student at Purdue passionate about autonomous systems and large-scale web applications</h3>
+<h3 align="center">Undergraduate CS student at Purdue passionate about autonomous systems</h3>
 
 - 🔭 I recently worked on developing the backend for an SMS-based food ordering system for [SFSL](https://www.sharefoodsharelove.org/)
   
