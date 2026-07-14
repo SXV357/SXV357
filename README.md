@@ -87,8 +87,8 @@
 
 <br/>
 <div align="center">
-  <img src = "https://raw.githubusercontent.com/SXV357/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src = "https://raw.githubusercontent.com/SXV357/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src = "https://github.com/SXV357/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src = "https://github.com/SXV357/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 ###
