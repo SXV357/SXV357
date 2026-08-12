@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-  <img alt="Shreyas Viswanathan" src="assets/dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light-v2.svg">
+  <img alt="Shreyas Viswanathan" src="assets/dark-v2.svg">
 </picture>
 
 <br/>
