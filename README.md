@@ -21,3 +21,5 @@
 - Added suggested prompts at the start of each chat session ([#23](https://github.com/open-build/BabbleBeaver/pull/23))
 - Made the initial system prompt configurable instead of hardcoded ([#18](https://github.com/open-build/BabbleBeaver/pull/18))
 - Documented model integration and local/Docker setup ([#28](https://github.com/open-build/BabbleBeaver/pull/28))
+
+**[BabbleBeaverReact](https://github.com/open-build/BabbleBeaverReact)** (open-build): built the React frontend for BabbleBeaver from scratch, connecting it to the FastAPI backend, with suggested prompts that fetch responses when clicked. Gives React developers a ready-made starting point for adding features.
